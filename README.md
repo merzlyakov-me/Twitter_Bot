@@ -3,6 +3,10 @@
 Bot works in background as a server
 Client can connect to give commands and get stats.
 
+Changelog: 05.09.20015
+Vitali:
+Daemon script added
+
 Changelog:
 18.08.2015<br />
 Dzmitry:<br />
