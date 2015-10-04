@@ -1,0 +1,5 @@
+description:
+    # a description of the config file
+parameters:
+    # declaration of input parameters
+    server_ip : localhost
